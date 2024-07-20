@@ -3,4 +3,4 @@ elementos.push(40, 50);
 
 console.log(`o array acrescentado é ${elementos}`);
 
-//array
+//array00
