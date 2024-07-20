@@ -5,3 +5,5 @@ const produto = {
 };
 
 console.log(`valor total do estoque: ${produto.preço * produto.quantidade}R$`);
+
+//objeto
