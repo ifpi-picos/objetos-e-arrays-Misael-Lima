@@ -6,3 +6,5 @@ const aluno = {
 };
 
 console.log(aluno);
+
+//objeto
