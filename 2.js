@@ -4,3 +4,5 @@ const carro = {
   ano: "2023",
 };
 console.log(carro.marca);
+
+//objeto
