@@ -5,3 +5,5 @@ const livro = {
 };
 
 console.log(`livro ${livro.titulo} do autor ${livro.autor}`);
+
+//objeto
