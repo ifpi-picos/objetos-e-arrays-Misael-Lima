@@ -5,3 +5,12 @@ for (let i = 0; i < 5; i++) {
 }
 
 console.log(filmes);
+
+for(let i = 0; i < filmes.length; i++){
+    console.log(filmes[i])
+};
+
+//for(const filme of filme){
+//   console.log(filme)
+//};
+//
