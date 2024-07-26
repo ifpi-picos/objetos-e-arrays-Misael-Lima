@@ -2,4 +2,4 @@
 const nomeCompleto = ('Misael de Oliveira Lima Veloso');
 const nomes = nomeCompleto.split(' ');
 
-console.log(nomes[0]);
+console.log(nomes[0], nomes[4]);
